@@ -2,7 +2,7 @@
 
 ## install
 
-cd ~/catkin_ws/src
+cd ~/catkin_ws/src 
 git clone https://github.com/masakifujiwara1/create_dataset.git
 
 ## how to use
