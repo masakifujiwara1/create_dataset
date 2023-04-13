@@ -9,7 +9,7 @@ git clone https://github.com/masakifujiwara1/create_dataset.git
 
 ### use rosbag
 ~~~
-roslaunch create_dataset use_rosbag.launch
+roslaunch create_dataset use_rosbag.launch bag_filename:=<your rosbag path>
 ~~~
 ### with other node 
 ~~~
